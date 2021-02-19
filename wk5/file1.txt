@@ -1,0 +1,4 @@
+This new line is great!This will overwrite my filet is added to file1.txt
+This a another line to add to the file
+This is a second line that is added to file1.txt
+This is another line to add to the file
